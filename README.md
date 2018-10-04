@@ -1,0 +1,2 @@
+# captivate-button
+Adapt component
